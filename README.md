@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# SONIBAZE Portfolio Website
 
 A responsive personal portfolio website built with HTML and CSS. The
 project focuses on presenting work samples and organizing page content

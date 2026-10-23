@@ -1,0 +1,17 @@
+
+
+.footer-address {
+  color: var(--text-color);
+}
+
+.social-link {
+  display: block;
+}
+
+
+/* fill: var(--text-color);
+Sets the actual fill color of the SVG's shapes, such as paths and circles. */
+
+.social-link svg {
+  fill: var(--text-color);
+}
